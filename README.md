@@ -2,7 +2,7 @@
 
 **Business Intelligence & Analytics Consultant** — turning spreadsheets into decisions businesses can act on.
 
-18+ years across FP&A, analytics, and reporting — including Genpact, Carrier Midea, Hughes, and Cure Chem. Now freelance, building dashboards, financial models, and automated reporting for clients directly.
+18+ years across FP&A, analytics, and reporting — including Genpact, Carrier Midea India, Hughes Communications, and Cure Chem India. Now freelance, building dashboards, financial models, and automated reporting for clients directly.
 
 - 🔭 Currently building: Power BI dashboards, financial models, and reporting automation for freelance clients
 - 🎓 MBA (Business Analytics) · Data Science & AI Certification, IIT Roorkee
