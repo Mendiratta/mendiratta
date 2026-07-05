@@ -4,12 +4,11 @@
 
 18+ years across FP&A, analytics, and reporting — including Genpact, Carrier Midea, Hughes, and Cure Chem. Now freelance, building dashboards, financial models, and automated reporting for clients directly.
 
-- 🔭 Currently building: Power BI dashboards, financial models, and reporting automation for freelance clients
-- 🎓 MBA (Business Analytics) · Data Science & AI Certification, IIT Roorkee
-- 🌱 Always sharpening: Python for analytics, DAX patterns, Power Automate flows
-- 📫 Reach me: mendiratta@outlook.com · [[Portfolio]([https://mendiratta.github.io/portfolio/])]
-- 📍 Based in Gurgaon, NCR — India
-
+🔭 Currently building: Power BI dashboards, financial models, and reporting automation for freelance clients
+🎓 MBA (Business Analytics) · Data Science & AI Certification, IIT Roorkee
+🌱 Always sharpening: Python for analytics, DAX patterns, Power Automate flows
+📫 Reach me: mendiratta@outlook.com · Portfolio
+📍 Based in Gurgaon, NCR — India
 ---
 
 ### Tools I work in
