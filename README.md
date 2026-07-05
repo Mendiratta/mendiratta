@@ -23,10 +23,10 @@
 
 ### What I actually do
 
-- 📊 **Dashboard design** — Power BI & Tableau dashboards that surface trends and anomalies, not just tables
-- 💰 **Financial modelling** — revenue, expense, and profitability models for budgeting and scenario planning
+- 📊 **Dashboard Design** — Power BI & Tableau dashboards that surface trends and anomalies, not just tables
+- 💰 **Financial Modelling** — revenue, expense, and profitability models for budgeting and scenario planning
 - ⚙️ **Automation** — Power Query + Power Automate pipelines that remove hours of manual reporting work
-- 🎯 **KPI frameworks** — metrics tied to real business goals, tracked automatically
+- 🎯 **KPI Frameworks** — metrics tied to real business goals, tracked automatically
 
 ---
 
