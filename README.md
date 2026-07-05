@@ -30,4 +30,4 @@
 
 ---
 
-📩 **Let's talk:** mendiratta@outlook.com · +91 70110 43183 (WhatsApp)
+📩 **Let's talk:** mendiratta@outlook.com · +91 9818 00 3643
