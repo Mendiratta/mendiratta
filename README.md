@@ -7,7 +7,7 @@
 - 🔭 Currently building: Power BI dashboards, financial models, and reporting automation for freelance clients
 - 🎓 MBA (Business Analytics) · Data Science & AI Certification, IIT Roorkee
 - 🌱 Always sharpening: Python for analytics, DAX patterns, Power Automate flows
-- 📫 Reach me: mendiratta@outlook.com · [Portfolio](https://mendiratta.github.io/portfolio/)
+- 📫 Reach me: mendiratta@outlook.com · [Portfolio](https://mendiratta.github.io/Portfolio/)
 - 📍 Based in Gurgaon, NCR — India
 
 ---
