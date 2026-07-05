@@ -17,7 +17,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2B705?style=for-the-badge&logo=powerbi&logoColor=0A0D12)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-35D0BA?style=for-the-badge&logo=python&logoColor=0A0D12)
-![SQL](https://img.shields.io/badge/SQL-5C7CFA?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power Query](https://img.shields.io/badge/SQL-5C7CFA?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
