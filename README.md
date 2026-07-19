@@ -38,7 +38,7 @@ Four end-to-end builds — data model, DAX, and documentation, not just a screen
 **[Sales & Receivables Analytics](https://github.com/Mendiratta/PowerBI/tree/master/receivables)**
 DSO, CEI, and aging analysis for a distribution business. The interesting part: a point-in-time DAX anchor that keeps historical snapshots accurate, and a measure-switching dispatcher so one visual serves three KPIs.
 
-**[Call Center Analytics](https://github.com/Mendiratta/call-center-analytics)**
+**[Call Center Analytics](https://github.com/Mendiratta/call-center)**
 Four-page view into staffing, SLA, and customer experience across three years of data. Solves a real headache — shift-specific overload baselines, since a night shift and an afternoon shift shouldn't be judged by the same bar.
 
 **[Sales Performance](https://github.com/Mendiratta/sales)**
