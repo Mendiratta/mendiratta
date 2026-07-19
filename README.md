@@ -38,19 +38,19 @@ Four end-to-end builds — data model, DAX, and documentation, not just a screen
 **[Sales & Receivables Analytics](https://github.com/Mendiratta/PowerBI/tree/master/receivables)**
 DSO, CEI, and aging analysis for a distribution business. The interesting part: a point-in-time DAX anchor that keeps historical snapshots accurate, and a measure-switching dispatcher so one visual serves three KPIs.
 
-**[Call Center Analytics](https://github.com/Mendiratta/call-center)**
+**[Call Center Analytics](https://github.com/Mendiratta/PowerBI/tree/master/call-center)**
 Four-page view into staffing, SLA, and customer experience across three years of data. Solves a real headache — shift-specific overload baselines, since a night shift and an afternoon shift shouldn't be judged by the same bar.
 
-**[Sales Performance](https://github.com/Mendiratta/sales)**
+**[Sales Performance](https://github.com/Mendiratta/PowerBI/tree/master/sales)**
 ABC classification across warehouses, built on an Indian fiscal-year calendar rather than assuming Jan–Dec. Answers "which 20% of our SKUs actually matter" with math, not guesswork.
 
-**[Inventory Analytics](https://github.com/Mendiratta/inventory-analytics)**
+**[Inventory Analytics](https://github.com/Mendiratta/PowerBI/tree/master/inventory)**
 ABC classification across warehouses, built on an Indian fiscal-year calendar rather than assuming Jan–Dec. Answers "which 20% of our SKUs actually matter" with math, not guesswork.
 
-**[Financial Statements](https://github.com/Mendiratta/financials)**
+**[Financial Statements](https://github.com/Mendiratta/PowerBI/tree/master/financials)**
 Three Financial Statements -  Profit & Loss, Balance Sheet, and Cash Flow.
 
-**[Growth Command Center](https://github.com/Mendiratta/growth)**
+**[Growth Command Center](https://github.com/Mendiratta/PowerBI/tree/master/growth)**
 Three Financial Statements -  One dashboard. Every morning. The full health of the business — revenue, marketing spend, leads, calls, sales, and ROAS, sliced by date range, platform, and sales rep.
 
 *Full `.pbix` files and live walkthroughs available on request — I'd rather show you the build on a call than have it sit as a download nobody opens.*
