@@ -35,7 +35,7 @@ That's the short version. The longer one: I've sat on both sides of a dashboard 
 
 Four end-to-end builds — data model, DAX, and documentation, not just a screenshot. Each repo README walks through the actual business problem and the technical decisions behind it.
 
-**[Sales & Receivables Analytics]([https://github.com/Mendiratta/Powerbi/receivables](https://github.com/Mendiratta/PowerBI/tree/master/receivables)**
+**[Sales & Receivables Analytics](https://github.com/Mendiratta/PowerBI/tree/master/receivables)**
 DSO, CEI, and aging analysis for a distribution business. The interesting part: a point-in-time DAX anchor that keeps historical snapshots accurate, and a measure-switching dispatcher so one visual serves three KPIs.
 
 **[Call Center Analytics](https://github.com/Mendiratta/call-center-analytics)**
